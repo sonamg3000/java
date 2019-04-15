@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employee>
+<empid>101</empid>
+<empid>102</empid>
+<name>Sonam</name>
+<name>dhawal</name>
+<salary>12000</salary>
+</employee>
